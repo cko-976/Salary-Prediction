@@ -4,7 +4,7 @@
 
 The work is aimed at predicting salary from Census data by using a classification model. 
 
-The 5-fold cross-validation will be used to access which model produces the best accuracy score.  
+The 5-fold cross-validation will be used to access which model has the best accuracy score.  
 
 ## Goals
 - The goal is to train a classfication model that performs better than 0.75 accuracy.
@@ -20,8 +20,8 @@ This study will be useful for anyone wanting to learn how to make predictions us
 
 It is also useful for anyone wanting to learn how to select a model using K-fold Cross-Validation.
 
-Other people have done work on this data set, for example [Ron Kohavi](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), 1996, "Scaling Up the Accuracy of Naives-Bayes Classifier: A Decsion Tree hybrid", used the adult data to show the usefulness of Naives-Bayes Classifier. 
-The data has also been used by in work titled ['adult income predictor'](https://www.youtube.com/watch?v=RdggP4yuIHY) using different classifiers, such as Decision Tree, Gradient Boost Classifier and Logistic Regression.
+Other people have done work on this data set, for example [Ron Kohavi](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), 1996, "Scaling Up the Accuracy of Naives-Bayes Classifier: A Decsiion Tree hybrid", used the adult data to show the usefulness of Naives-Bayes Classifier. 
+The data has also been used in work titled ['adult income predictor'](https://www.youtube.com/watch?v=RdggP4yuIHY) using different classifiers, such as Decision Tree, Gradient Boost Classifier and Logistic Regression.
 
 
 ## Data
