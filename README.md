@@ -27,7 +27,7 @@ The data has also been used by in work titled ['adult income predictor'](https:/
 ## Data
 The project uses the 1994 Census data from UCI Machine Learning Repository, [UCI ML](https://archive.ics.uci.edu/ml/datasets/Census+Income).  
 It has 14 features and 32561 rows. It also referred to as the adult data.
-[Data]
+[Data])(https://raw.githubusercontent.com/cko-976/Salary-Prediction/main/adult.data)
 
 ## Table of Contents
 [Technical Report]
